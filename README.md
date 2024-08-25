@@ -18,7 +18,7 @@ Este proyecto es una aplicación en TypeScript que extrae productos de la págin
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/vicdimilu/ScraperProducts.git
    cd nombre-del-repositorio
    
 2. **Instalar dependencias**:
